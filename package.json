@@ -1,0 +1,1 @@
+{"name":"harmony-worksheet","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node server.mjs","test":"node tests.mjs"},"devDependencies":{"linkedom":"0.18.12"}}
